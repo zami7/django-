@@ -1,3 +1,5 @@
 # django-
 third person open world game
-check the loginpage.jpeg for login page illustration.
+
+check the loginpage.jpeg for the login page illustration :)
+
